@@ -1,0 +1,4 @@
+1)To run the code, simply run dtsvm.m
+2)If you want to load the alternate datasets, do so by changing the filenames at the beginning of dtsvm.m.
+3)If you want to create your own dataset, edit the paths in writedata.m and change the filenames in dtsvm.m
+4)Cross validation can be uncommented and run if neccessary. Automatic cross validation is exhaustive but very slow. Manual cross validation should be run on large problems by altering the loop variables. 
